@@ -309,6 +309,7 @@ max-width: 100%;
     }
     .landing .overlay {
         width: 50vh;
+        height: 100vh;
     }
     .landing .text {
         min-width: 50vh;
