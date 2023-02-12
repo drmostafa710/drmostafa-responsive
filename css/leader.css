@@ -303,6 +303,7 @@ max-width: 100%;
 @media (max-width:374px) {
     body {
         width: 50vh;
+        height: 812px;
     }
     header {
         width: 50vh;
